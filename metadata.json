@@ -1,0 +1,5 @@
+{
+  "name": "Napoleonic 3D Grandmaster Chess",
+  "description": "A premium 3D chess simulation featuring Napoleonic-era French vs British forces, with advanced AI battle modes, real-time evaluation, and GM commentary powered by Gemini.",
+  "requestFramePermissions": []
+}
